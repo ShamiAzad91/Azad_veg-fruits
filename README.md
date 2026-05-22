@@ -130,7 +130,6 @@ GitHub:https://github.com/ShamiAzad91
 - Online Payment Integration
 - Order Tracking
 - Wishlist Feature
-- Product Search & Filter
 - Delivery Status Tracking
 
 ---
