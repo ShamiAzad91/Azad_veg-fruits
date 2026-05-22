@@ -67,7 +67,7 @@ azad-veg-and-fruits/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/azad-veg-and-fruits.git
+git clone https://github.com/ShamiAzad91/azad-veg-and-fruits.git
 cd azad-veg-and-fruits
 ```
 
